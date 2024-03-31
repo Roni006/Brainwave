@@ -26,4 +26,10 @@
     .hbtns {
         display: none !important;
     }
+    /* .header-row {
+        justify-content: center;
+    } */
+    .fa-bars{
+        margin-right: 22px;
+    }
 }
