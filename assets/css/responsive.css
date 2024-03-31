@@ -1,0 +1,29 @@
+@media (max-width: 1050px){
+    ul {
+        display: none;
+    }
+    .hbtns{
+        margin-right: 15px;
+    }
+    .fa-bars {
+        display: block !important;
+    }
+}
+@media (max-width: 720px){
+    .header-row {
+        gap: 40px !important;
+       
+    }
+}
+
+@media (max-width: 590px){
+    .header-row {
+        gap: 60px !important;
+       
+    }
+}
+@media (max-width: 500px){
+    .hbtns {
+        display: none !important;
+    }
+}
