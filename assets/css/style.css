@@ -59,12 +59,17 @@ li{
 .container{
     max-width: 1190px;
     margin: 0 auto;
+    /* padding:0 20px !important; */
+    
+}
+img{
+    max-width: 100%;
 }
 
 /* HEADER SECTION START */
-.header-section{
+/* .header-section{
     
-}
+} */
 .header-row h5{
     font-family: var(--rubic-fonts);
 }
@@ -130,6 +135,9 @@ ul{
     margin-top: -70px;
     background-image: url('/assets/img/hero-bg.png');
 }
+.hero-right img{
+    max-width: initial;
+}
 .hero-row{
     display: flex;
     align-items: center;
@@ -170,7 +178,7 @@ ul{
 .service-content h1{
     font-weight: 700;
     text-align: center;
-    width: 785px;
+    /* width: 785px; */
     margin: 0 auto;
     line-height: 50px;
     margin-top: 20px;
