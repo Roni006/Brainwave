@@ -1,4 +1,4 @@
-@media (max-width: 1050px){
+/* @media (max-width: 1050px){
     ul {
         display: none;
     }
@@ -26,10 +26,5 @@
     .hbtns {
         display: none !important;
     }
-    /* .header-row {
-        justify-content: center;
-    } */
-    .fa-bars{
-        margin-right: 22px;
-    }
-}
+   
+} */
