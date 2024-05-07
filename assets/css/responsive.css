@@ -1,4 +1,4 @@
-@media (max-width: 1050px){
+/* @media (max-width: 1050px){
     ul {
         display: none;
     }
@@ -8,10 +8,6 @@
     .fa-bars {
         display: block !important;
     }
-    /* .hero-row{
-        padding: 0 20px;
-        flex-wrap: wrap;
-    } */
     .hero-right img{
         max-width: 100%;
     }
@@ -60,4 +56,4 @@
         line-height: 25px !important;
         
     }
-}
+} */
